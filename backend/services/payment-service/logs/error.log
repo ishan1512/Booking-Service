@@ -1,0 +1,6 @@
+2026-04-02T15:19:17.020Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mJsonWebTokenError: secret or public key must be provided[39m[22m
+2026-04-02T15:19:55.783Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mJsonWebTokenError: secret or public key must be provided[39m[22m
+2026-04-02T15:20:06.000Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mReferenceError: razorpay is not defined[39m[22m
+2026-04-02T15:21:42.270Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mTypeError: Cannot read properties of undefined (reading 'create')[39m[22m
+2026-04-02T15:25:46.474Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mTypeError: Cannot read properties of undefined (reading 'create')[39m[22m
+2026-04-02T15:25:50.929Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mTypeError: Cannot read properties of undefined (reading 'create')[39m[22m

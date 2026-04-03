@@ -1,0 +1,27 @@
+2026-03-26T15:01:16.987Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mTypeError: Cannot read properties of undefined (reading 'jwt')[39m[22m
+2026-03-26T15:02:15.574Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mTypeError: Cannot read properties of undefined (reading 'jwt')[39m[22m
+2026-03-26T15:11:02.327Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-27T13:14:36.433Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-27T13:46:26.439Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-27T13:46:43.069Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mMongoServerError: $regex has to be a string[39m[22m
+2026-03-27T14:03:59.569Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:04:22.466Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:05:22.743Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:06:23.426Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:07:19.708Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:12:25.607Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:13:05.388Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:13:53.247Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mCastError: Cast to ObjectId failed for value "{ id: '69bd633fecfe26db7564e65d' }" (type Object) at path "_id" for model "Booking"[39m[22m
+2026-03-27T14:14:48.176Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:14:57.576Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-27T14:18:12.073Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mReferenceError: _id is not defined[39m[22m
+2026-03-27T14:21:15.660Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Booking not found[39m[22m
+2026-03-28T13:10:48.936Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-28T13:37:12.847Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-31T14:16:56.274Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: No access token provided[39m[22m
+2026-03-31T15:07:02.949Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mReferenceError: next is not defined[39m[22m
+2026-03-31T15:07:29.625Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Slot already booked[39m[22m
+2026-03-31T15:08:10.375Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Slot already booked[39m[22m
+2026-03-31T15:09:07.671Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Slot already booked[39m[22m
+2026-04-01T13:59:07.340Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Slot already booked[39m[22m
+2026-04-01T14:13:33.038Z [[1m[31m[1m[31merror[31m[1m[39m[22m]: [1m[31mError: Your booking is already confirmed[39m[22m
