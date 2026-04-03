@@ -55,3 +55,4 @@ export const verifyPayment = catchAsync(async (req, res) => {
     .status(200)
     .json({ message: "Payment verified, your booking is confirmed" });
 });
+export const checkpay = catchAsync(async (req, res) => {});
